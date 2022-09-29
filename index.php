@@ -67,6 +67,7 @@
             <?php include './login.php';?>
 
             <div class="cleaner_h20"></div>
+            <?php include './register.php';?>
 
             <div class="section_w450 fl">
 

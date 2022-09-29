@@ -1,7 +1,7 @@
 <div class="wrapper fadeInDown">
   <div id="formContent">
     <!-- Tabs Titles -->
-    <h2 class="active"> Đăng nhập </h2>
+    <h2 class="inactive underlineHover">Đăng kí </h2>
 
     <!-- Icon -->
     <div class="fadeIn first">
@@ -17,7 +17,7 @@
 
     <!-- Remind Passowrd -->
     <div id="formFooter">
-      <a class="underlineHover" href="index.php">Trờ lại</a>
+      <a class="underlineHover" href="index.php">Đăng kí</a>
     </div>
 
   </div>
