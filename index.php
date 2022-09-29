@@ -64,6 +64,7 @@
 
             </div>
             
+            <?php include './login.php';?>
 
             <div class="cleaner_h20"></div>
 
